@@ -1,0 +1,5 @@
+#ignore setting
+/.setting
+/target
+.project
+.classpath
