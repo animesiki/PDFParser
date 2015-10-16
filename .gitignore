@@ -1,5 +1,5 @@
 #ignore setting
-/.setting
+/.settings
 /target
 .project
 .classpath
