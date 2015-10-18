@@ -16,3 +16,4 @@ public class TextOutputParser implements IPdfParser {
 		return text.toString();
 	}
 }
+ 
