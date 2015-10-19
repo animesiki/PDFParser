@@ -1,0 +1,3000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pdf>
+	<records>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>J.B.SHIPPING AGENCY</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/12716 SON : CGS/15/13557 Tran. Sl No.4)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538713</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500288 ] VEGA ALPHA</column>
+			<column>IMO No.</column>
+			<column>9301081</column>
+			<column>Call-Sign</column>
+			<column>A8ZB3</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112813 (11/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>069</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87106 (02/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-2 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Local Haulage Charge</column>
+		</record>
+		<record>
+			<column>1) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>1208.00</column>
+			<column>1208.00</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>2) Foreign: Non-ODC-Nepal: ICD: 20 Ft.: Loaded (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>3328.99</column>
+			<column>3329.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,607.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>233.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>818.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Six Thousand Six Hundred Fifty-Eight Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>6,658.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: BABA PRINT WORLD PVT LTD</column>
+		</record>
+		<record>
+			<column>Line No: 82 B/E No: S51/ICCD/3763/R/15A 17/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU2936737 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>1</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>J.B.SHIPPING AGENCY</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/12716 SON : CGS/15/13557 Tran. Sl No.5)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538716</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500288 ] VEGA ALPHA</column>
+			<column>IMO No.</column>
+			<column>9301081</column>
+			<column>Call-Sign</column>
+			<column>A8ZB3</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112813 (11/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>069</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87106 (02/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-2 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Local Haulage Charge</column>
+		</record>
+		<record>
+			<column>1) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>1208.00</column>
+			<column>1208.00</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>2) Foreign: Non-ODC-Nepal: ICD: 20 Ft.: Loaded (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>3328.99</column>
+			<column>3329.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,607.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>233.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>818.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Six Thousand Six Hundred Fifty-Eight Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>6,658.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: NEPAL PHARMACEUTICALS LAB PVT LTD</column>
+		</record>
+		<record>
+			<column>Line No: 80 B/E No: S51/ICCD/3779/R/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>GLDU9650230 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>2</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>EASTERN CLEARING &amp; FORWARD.AGENCY P.LTD.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/12716 SON : CGS/15/14130 Tran. Sl No.7)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538861</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500288 ] VEGA ALPHA</column>
+			<column>IMO No.</column>
+			<column>9301081</column>
+			<column>Call-Sign</column>
+			<column>A8ZB3</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112813 (11/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>069</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87106 (02/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-2 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Local Haulage Charge</column>
+		</record>
+		<record>
+			<column>1) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>1208.00</column>
+			<column>1208.00</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>2) Foreign: Non-ODC-Nepal: ICD: 20 Ft.: Loaded (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>3328.99</column>
+			<column>3329.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,607.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>233.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>818.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Six Thousand Six Hundred Fifty-Eight Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>6,658.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: P M TRADE CONCERN</column>
+		</record>
+		<record>
+			<column>Line No: 79 B/E No: S51/ICCD/3791/R/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>TGHU1644366 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>3</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>J.C.BANERJEE &amp; SONS</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13285 SON : CGS/15/14874 Tran. Sl No.1)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538804</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500281 ] TIGER BAY</column>
+			<column>IMO No.</column>
+			<column>9366433</column>
+			<column>Call-Sign</column>
+			<column>9V9874</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112803 (11/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>028</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87107 (02/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-12</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC-Nepal: NON-ICD: 40 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>2.0</column>
+			<column>6613.49</column>
+			<column>13227.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 40 Ft. (Berth - NS05BS)</column>
+			<column>2.0</column>
+			<column>1425.00</column>
+			<column>2850.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 40 Ft. (Berth - NS05BS)</column>
+			<column>2.0</column>
+			<column>180.00</column>
+			<column>360.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>16,437.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>679.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>2396.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Nineteen Thousand Five Hundred Twelve Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>19,512.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: NEELKANTHA ENTERPRISES PVT.TLD.,</column>
+		</record>
+		<record>
+			<column>Line No: 50 B/E No: S51/374/NAX/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU6228438 [40]</column>
+			<column>OOLU6405261 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>4</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>J.C.BANERJEE &amp; SONS</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13285 SON : CGS/15/14874 Tran. Sl No.3)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538857</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500281 ] TIGER BAY</column>
+			<column>IMO No.</column>
+			<column>9366433</column>
+			<column>Call-Sign</column>
+			<column>9V9874</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112803 (11/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>028</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87107 (02/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-12</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Reefer Container Power Supply</column>
+		</record>
+		<record>
+			<column>1) 40 Ft. per 4 hrs or part thereof for 158 Hours (Berth - NS05BS)</column>
+			<column>80.0</column>
+			<column>262.44</column>
+			<column>20995.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>20,995.00</column>
+		</record>
+		<record>
+			<column>2) Special Rate @ 5 % on applicable items above</column>
+			<column>1050.00</column>
+		</record>
+		<record>
+			<column>3) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>3086.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Twenty-Five Thousand One Hundred Thirty-One Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>25,131.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: NEELKANTHA ENTERPRISES PVT.TLD.,</column>
+		</record>
+		<record>
+			<column>Line No: 50 B/E No: S51/374/NAX/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU6228438 [40]</column>
+			<column>OOLU6405261 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>5</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>HARJEET SINGH JOHAR</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/11773 Tran. Sl No.4)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535085</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 40 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>3.0</column>
+			<column>7348.32</column>
+			<column>22045.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 40 Ft.</column>
+			<column>3.0</column>
+			<column>1425.00</column>
+			<column>4275.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 40 Ft.</column>
+			<column>3.0</column>
+			<column>180.00</column>
+			<column>540.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>26,860.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>1129.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>3918.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Thirty-One Thousand Nine Hundred Seven Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>31,907.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : HINDUSTHAN NATIONAL GLASS &amp; INDUSTRIES LTD.</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>CAIU9231337 [40]</column>
+			<column>CAIU9251781 [40]</column>
+			<column>TCNU5680077 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>6</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>GRANADA AIR SERVICE PVT.LTD.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/12138 Tran. Sl No.2)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535086</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 20 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>4898.88</column>
+			<column>4899.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 20 Ft.</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 20 Ft.</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,969.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>251.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>871.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Seven Thousand Ninety-One Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>7,091.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : RAMKRISHNA FORGINGS LTD.</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU3764340 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>7</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>UNITED TRADERS CO.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/12230 Tran. Sl No.10)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535087</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 20 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>8.0</column>
+			<column>4898.88</column>
+			<column>39191.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 20 Ft.</column>
+			<column>8.0</column>
+			<column>950.00</column>
+			<column>7600.00</column>
+		</record>
+		<record>
+			<column>Container Export Cut Off Penalty</column>
+		</record>
+		<record>
+			<column>3) 20 Ft.</column>
+			<column>5.0</column>
+			<column>1000.00</column>
+			<column>5000.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 20 Ft.</column>
+			<column>8.0</column>
+			<column>120.00</column>
+			<column>960.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>52,751.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>2008.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>7666.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Sixty-Two Thousand Four Hundred Twenty-Five Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>62,425.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : SATVIK ENTERPRISES LTD.</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU0464930 [20]</column>
+			<column>OOLU1121302 [20]</column>
+			<column>OOLU1238834 [20]</column>
+			<column>OOLU1413602 [20]</column>
+			<column>OOLU1790904 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1996752 [20]</column>
+			<column>OOLU3768406 [20]</column>
+			<column>TCLU3485290 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>8</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>SEALAND LOGISTICS INDIA SERVICES PVT.LTD.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/12396 Tran. Sl No.11)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535091</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 40 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>2.0</column>
+			<column>7348.32</column>
+			<column>14697.00</column>
+		</record>
+		<record>
+			<column>Reefer Container Power Supply</column>
+		</record>
+		<record>
+			<column>2) 40 Ft. per 4 hrs or part thereof</column>
+			<column>10.0</column>
+			<column>262.44</column>
+			<column>2624.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>3) 40 Ft.</column>
+			<column>2.0</column>
+			<column>1425.00</column>
+			<column>2850.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 40 Ft.</column>
+			<column>2.0</column>
+			<column>180.00</column>
+			<column>360.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>20,531.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>884.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>2998.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Twenty-Four Thousand Four Hundred Thirteen Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>24,413.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : KNC AGRO LTD.</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU6211749 [40]</column>
+			<column>OOLU6235674 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>9</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>EVERGREEN EXPO CLEARING &amp; FORWARDING PVT.LTD.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/12411 Tran. Sl No.5)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535092</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 20 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>8.0</column>
+			<column>4898.88</column>
+			<column>39191.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 20 Ft.</column>
+			<column>8.0</column>
+			<column>950.00</column>
+			<column>7600.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 20 Ft.</column>
+			<column>8.0</column>
+			<column>120.00</column>
+			<column>960.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>47,751.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>2008.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>6966.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Fifty-Six Thousand Seven Hundred Twenty-Five Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>56,725.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : KEDARNATH RAMGOPAL &amp; SONS</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU1050030 [20]</column>
+			<column>OOLU1151185 [20]</column>
+			<column>OOLU1257813 [20]</column>
+			<column>OOLU1543798 [20]</column>
+			<column>OOLU1775129 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1840991 [20]</column>
+			<column>OOLU2169065 [20]</column>
+			<column>OOLU3719905 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>10</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>CLEFORD SHIPPING COMPANY</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13298 SON : CGS/15/12453 Tran. Sl No.2)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1535093</column>
+			<column>DATE :</column>
+			<column>12/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Export</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500279 ] TIGER STREAM</column>
+			<column>IMO No.</column>
+			<column>9360520</column>
+			<column>Call-Sign</column>
+			<column>V2EQ6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112397 (05/06/15)</column>
+			<column>Last Port:</column>
+			<column>COLOMBO</column>
+			<column>Voyage No.</column>
+			<column>064</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>86874 (28/05/15)</column>
+			<column>Next Port:</column>
+			<column>COLOMBO</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 20 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>40.0</column>
+			<column>4898.88</column>
+			<column>195955.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 20 Ft.</column>
+			<column>40.0</column>
+			<column>950.00</column>
+			<column>38000.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 20 Ft.</column>
+			<column>40.0</column>
+			<column>120.00</column>
+			<column>4800.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>238,755.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>10038.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>34831.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Two Lacs Eighty-Three Thousand Six Hundred Twenty-Four Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>283,624.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Exporter/MLO : BHUSHAN STEEL LTD</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>GLDU9723911 [20]</column>
+			<column>OOLU0204151 [20]</column>
+			<column>OOLU0248571 [20]</column>
+			<column>OOLU0263283 [20]</column>
+			<column>OOLU0387957 [20]</column>
+		</record>
+		<record>
+			<column>OOLU0424515 [20]</column>
+			<column>OOLU1246249 [20]</column>
+			<column>OOLU1253103 [20]</column>
+			<column>OOLU1257829 [20]</column>
+			<column>OOLU1339399 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1340975 [20]</column>
+			<column>OOLU1341518 [20]</column>
+			<column>OOLU1352739 [20]</column>
+			<column>OOLU1443227 [20]</column>
+			<column>OOLU1509514 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1543123 [20]</column>
+			<column>OOLU1550230 [20]</column>
+			<column>OOLU1649202 [20]</column>
+			<column>OOLU1789020 [20]</column>
+			<column>OOLU1868068 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1871101 [20]</column>
+			<column>OOLU1927427 [20]</column>
+			<column>OOLU1933461 [20]</column>
+			<column>OOLU1939618 [20]</column>
+			<column>OOLU1943536 [20]</column>
+		</record>
+		<record>
+			<column>OOLU1976571 [20]</column>
+			<column>OOLU2198607 [20]</column>
+			<column>OOLU2825179 [20]</column>
+			<column>OOLU2830257 [20]</column>
+			<column>OOLU2921336 [20]</column>
+		</record>
+		<record>
+			<column>OOLU2926934 [20]</column>
+			<column>OOLU2935601 [20]</column>
+			<column>OOLU2945364 [20]</column>
+			<column>OOLU2989629 [20]</column>
+			<column>TCKU1844500 [20]</column>
+		</record>
+		<record>
+			<column>TCKU2085311 [20]</column>
+			<column>TCKU3196829 [20]</column>
+			<column>TCLU2399325 [20]</column>
+			<column>TGHU3965473 [20]</column>
+			<column>TRHU3273266 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>11</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>R.D.R.CLEARING AGENT.</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13559 SON : CGS/15/12609 Tran. Sl No.6)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538726</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500300 ] MATTYS</column>
+			<column>IMO No.</column>
+			<column>9299513</column>
+			<column>Call-Sign</column>
+			<column>V2GN8</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112727 (10/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>029S</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87069 (01/06/15)</column>
+			<column>Next Port:</column>
+			<column>SINGAPORE</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-8</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC-Nepal: NON-ICD: 20 Ft.: Loaded (Berth - NS08BS)</column>
+			<column>1.0</column>
+			<column>4408.99</column>
+			<column>4409.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 20 Ft. (Berth - NS08BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS08BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,479.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>226.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>799.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Six Thousand Five Hundred Four Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>6,504.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: SHIVAM EARTHMOVERS</column>
+		</record>
+		<record>
+			<column>Line No: 67 B/E No: S51/1987/J/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-8</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU1378939 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>12</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>RELIANCE CLEARING AGENCY</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/13701 SON : CGS/15/13827 Tran. Sl No.5)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538919</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500312 ] GERD</column>
+			<column>IMO No.</column>
+			<column>9255749</column>
+			<column>Call-Sign</column>
+			<column>V2BH3</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112869 (12/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>002</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87332 (05/06/15)</column>
+			<column>Next Port:</column>
+			<column>PORT KELANG(WEST)</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-8</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC-Nepal: NON-ICD: 40 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>6613.49</column>
+			<column>6613.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>2) 40 Ft. (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>1425.00</column>
+			<column>1425.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>3) 40 Ft. (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>180.00</column>
+			<column>180.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>8,218.00</column>
+		</record>
+		<record>
+			<column>4) Special Rate @ 5 % on applicable items above</column>
+			<column>340.00</column>
+		</record>
+		<record>
+			<column>5) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>1198.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Nine Thousand Seven Hundred Fifty-Six Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>9,756.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: SAURAV INTERNATIONAL</column>
+		</record>
+		<record>
+			<column>Line No: 124 B/E No: S51/378/NAX/15A 19/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU6147260 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>13</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>J.C.BANERJEE &amp; SONS</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/14685 SON : CGS/15/14872 Tran. Sl No.1)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538794</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500315 ] MOTIVATION D</column>
+			<column>IMO No.</column>
+			<column>9301108</column>
+			<column>Call-Sign</column>
+			<column>A8ZB6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112996 (13/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>017S</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87424 (08/06/15)</column>
+			<column>Next Port:</column>
+			<column>PORT KELANG</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-1</column>
+		</record>
+		<record>
+			<column>NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-2 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Local Haulage Charge</column>
+		</record>
+		<record>
+			<column>1) 20 Ft. (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>1208.00</column>
+			<column>1208.00</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>2) Foreign: Non-ODC-Nepal: ICD: 20 Ft.: Loaded (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>3328.99</column>
+			<column>3329.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>4) 20 Ft. (Berth - NS05BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>5,607.00</column>
+		</record>
+		<record>
+			<column>5) Special Rate @ 5 % on applicable items above</column>
+			<column>233.00</column>
+		</record>
+		<record>
+			<column>6) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>818.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Six Thousand Six Hundred Fifty-Eight Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>6,658.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: CHIRAG TRADE LINK</column>
+		</record>
+		<record>
+			<column>Line No: 151 B/E No: S51/ICCD/3777/R/15A 18/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU0147730 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>14</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>SADGURU FORWARDERS PVT.LTD</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/14685 SON : CGS/15/14684 Tran. Sl No.4)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1538845</column>
+			<column>DATE :</column>
+			<column>20/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500315 ] MOTIVATION D</column>
+			<column>IMO No.</column>
+			<column>9301108</column>
+			<column>Call-Sign</column>
+			<column>A8ZB6</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2112996 (13/06/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>017S</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>87424 (08/06/15)</column>
+			<column>Next Port:</column>
+			<column>PORT KELANG</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-1</column>
+		</record>
+		<record>
+			<column>NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-2 (CORNER)</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Reefer Container Power Supply</column>
+		</record>
+		<record>
+			<column>1) 40 Ft. per 4 hrs or part thereof for 48 Hours (Berth - NS05BS)</column>
+			<column>12.0</column>
+			<column>262.44</column>
+			<column>3149.00</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>3,149.00</column>
+		</record>
+		<record>
+			<column>2) Special Rate @ 5 % on applicable items above</column>
+			<column>157.00</column>
+		</record>
+		<record>
+			<column>3) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>463.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Three Thousand Seven Hundred Sixty-Nine Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>3,769.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: NEW PARAMOUNT TRADERS</column>
+		</record>
+		<record>
+			<column>Line No: 152 B/E No: S51-4880/R/2015A 16/06/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>OOLU6093775 [40]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>15</column>
+			<column>Page 1 of 1</column>
+		</record>
+		<record>
+			<column>Paid/Debited</column>
+			<column>Kolkata Dock System</column>
+		</record>
+		<record>
+			<column>Kolkata Port Trust</column>
+		</record>
+		<record>
+			<column>Finance Division</column>
+		</record>
+		<record>
+			<column>Agent:</column>
+			<column>FOREIGN POST KOLKATA</column>
+			<column>Collection Office,Subhas Bhavan, Gr. Floor</column>
+		</record>
+		<record>
+			<column>Payee:</column>
+			<column>OOCL (INDIA) PVT.LTD.A/C OOCL LTD.</column>
+			<column>40, Circular Garden Reach Road Kolkata-700043</column>
+		</record>
+		<record>
+			<column>FLAT NO. - S205, IDEAL PLAZA</column>
+			<column>Service Tax Code No. AAAJK0361LST002</column>
+		</record>
+		<record>
+			<column>11/1 SARAT BOSE ROAD KOLKATA</column>
+		</record>
+		<record>
+			<column>PIN : 700020 WEST BENGAL</column>
+		</record>
+		<record>
+			<column>CONTAINER</column>
+			<column>BILL</column>
+		</record>
+		<record>
+			<column>(Payee SON : CGS/15/9790 SON : CGS/15/11199 Tran. Sl No.2)</column>
+		</record>
+		<record>
+			<column>BILL NO:</column>
+			<column>CTB1529785</column>
+			<column>DATE :</column>
+			<column>02/06/2015</column>
+			<column>PURPOSE:</column>
+			<column>Import</column>
+		</record>
+		<record>
+			<column>Vessel Name</column>
+			<column>[ CCU11500205 ] KLARA</column>
+			<column>IMO No.</column>
+			<column>9399117</column>
+			<column>Call-Sign</column>
+			<column>CQFY</column>
+		</record>
+		<record>
+			<column>Import Rot. No:</column>
+			<column>2111205 (21/05/15)</column>
+			<column>Last Port:</column>
+			<column>SINGAPORE</column>
+			<column>Voyage No.</column>
+			<column>071s</column>
+		</record>
+		<record>
+			<column>Export Rot. No:</column>
+			<column>85959 (14/05/15)</column>
+			<column>Next Port:</column>
+			<column>PORT KELANG(WEST)</column>
+			<column>Working Berth:</column>
+			<column>NSD BERTH-5 (CORNER)</column>
+		</record>
+		<record>
+			<column>NSD BERTH-14</column>
+		</record>
+		<record>
+			<column>SL.</column>
+			<column>PARTICULARS</column>
+			<column>QUANTITY</column>
+			<column>RATE</column>
+			<column>AMOUNT</column>
+		</record>
+		<record>
+			<column>No.</column>
+			<column>(Rs.)</column>
+			<column>(Rs.)</column>
+		</record>
+		<record>
+			<column>Container Composite Box Charge</column>
+		</record>
+		<record>
+			<column>1) Foreign: Non-ODC: NON-ICD: 20 Ft.: Loaded (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>4898.88</column>
+			<column>4899.00</column>
+		</record>
+		<record>
+			<column>Container Lift on/ Lift off/Re-stacking by port</column>
+		</record>
+		<record>
+			<column>2) 20 Ft. (Berth - NS04BS)</column>
+			<column>4.0</column>
+			<column>419.90</column>
+			<column>1680.00</column>
+		</record>
+		<record>
+			<column>Container Transportation between two berth</column>
+		</record>
+		<record>
+			<column>3) 20 Ft. (Berth - NS04BS)</column>
+			<column>2.0</column>
+			<column>466.56</column>
+			<column>933.00</column>
+		</record>
+		<record>
+			<column>Calcutta Dock Labour Board</column>
+		</record>
+		<record>
+			<column>4) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>950.00</column>
+			<column>950.00</column>
+		</record>
+		<record>
+			<column>Lashing /De-Lashing charges</column>
+		</record>
+		<record>
+			<column>5) 20 Ft. (Berth - NS04BS)</column>
+			<column>1.0</column>
+			<column>120.00</column>
+			<column>120.00</column>
+		</record>
+		<record>
+			<column>Container De-stuffing</column>
+		</record>
+		<record>
+			<column>6) Both (Inside &amp; Outside): Only CLDB gang is involved: 20 Ft. (Berth -</column>
+			<column>1.0</column>
+			<column>3499.20</column>
+			<column>3499.00</column>
+		</record>
+		<record>
+			<column>NS04BS)</column>
+		</record>
+		<record>
+			<column>Value of Services --&gt;</column>
+			<column>12,081.00</column>
+		</record>
+		<record>
+			<column>7) Special Rate @ 5 % on applicable items above</column>
+			<column>557.00</column>
+		</record>
+		<record>
+			<column>8) Service Tax @ 14 % on value of the Services (with Special Rate)</column>
+			<column>1769.00</column>
+		</record>
+		<record>
+			<column>(Rs.): Fourteen Thousand Four Hundred Seven Only.</column>
+			<column>Gross Bill Amount --&gt;</column>
+			<column>14,407.00</column>
+		</record>
+		<record>
+			<column>Remarks:</column>
+			<column>Payment Mode: By PDA : IO017</column>
+		</record>
+		<record>
+			<column>Importer: SUPERINTENDENT OF FOREIGN POST</column>
+		</record>
+		<record>
+			<column>Line No: 82 B/E No: GE-FE/IN/05/HONGKONG/2015 29/05/2015</column>
+		</record>
+		<record>
+			<column>Berth: NSD BERTH-4 (CORNER)</column>
+		</record>
+		<record>
+			<column>Container List:</column>
+			<column>DFSU2677083 [20]</column>
+		</record>
+		<record>
+			<column>This is a Computer Generated Bill and no Signature is required.</column>
+		</record>
+		<record>
+			<column>Accounts/Audit Officer</column>
+			<column>SUPTD.SHED WRITER</column>
+			<column>FOR SUPTD. OF COLLECTION</column>
+		</record>
+		<record>
+			<column>Note: [Fax No. (033)2439-7633</column>
+			<column>, e-mail: sofc@kopt.in</column>
+			<column>web site: http://kolkataporttrust.gov.in]</column>
+		</record>
+		<record>
+			<column>1. Payment should be made in full. In case of any dispute, the same should be indicated in writing, to be settled in due course.</column>
+		</record>
+		<record>
+			<column>2. Bank Draft/Banker's Cheque should be drawn in favour of 'Kolkata Port Trust and payable at Kolkata.</column>
+		</record>
+		<record>
+			<column>3. Interest @14.25% p.a. would be levied for delay in payment beyond ten days of issuance of the bill.</column>
+		</record>
+		<record>
+			<column>4. For any communication please quote the Bill No. &amp; Date.</column>
+		</record>
+		<record>
+			<column>5. Our Service Tax Code Number is 'AAAJK0361LST002</column>
+			<column>' &amp; Category of service is 'PORT SERVICES'</column>
+		</record>
+		<record>
+			<column>6. For TDS appropriate declaration should be submitted at the time of payment [PAN of Kolkata Port Trust: AAAJK0361L ]</column>
+		</record>
+		<record>
+			<column>Printed on : 21/06/2015</column>
+			<column>03:15</column>
+			<column>Developed By NIC-NICSI</column>
+			<column>16</column>
+			<column>Page 1 of 1</column>
+		</record>
+	</records>
+</pdf>
