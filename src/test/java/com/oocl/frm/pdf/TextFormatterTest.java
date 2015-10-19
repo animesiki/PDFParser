@@ -8,6 +8,8 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+import org.dom4j.DocumentException;
+
 
 import com.oocl.frm.pdf.format.AbstractFormatter;
 import com.oocl.frm.pdf.format.OutputDecorator;
@@ -16,7 +18,7 @@ import com.oocl.frm.pdf.parser.TextOutputParser;
 
 public class TextFormatterTest {
 	
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args) throws IOException, DocumentException{
 		byte[] pdfContent=toByteArray("\\\\sha3\\isdc\\Framework\\study\\techStudy\\XSLTtemplate\\CPT\\Container_Service_Bill_Bouquet_OIPL1_20150620.pdf");
 		AbstractFormatter formatter=new TextOutputFormatter(new TextOutputParser());
 		formatter.setWordSpaceSplitCount(4);

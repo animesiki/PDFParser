@@ -3,6 +3,7 @@ package com.oocl.frm.pdf.format;
 import java.io.IOException;
 
 import org.dom4j.Document;
+import org.dom4j.DocumentException;
 
 public class OutputDecorator extends AbstractFormatter {
 
@@ -14,11 +15,11 @@ public class OutputDecorator extends AbstractFormatter {
 	}
 
 	@Override
-	public Document formatPDFText(byte[] pdfContent) throws IOException {
+	public Document formatPDFText(byte[] pdfContent) throws IOException, DocumentException {
 		return this.formatter.formatPDFText(pdfContent);
 	}
 	
-	public String generateResultDoc(byte[] pdfContent) throws IOException{
+	public String generateResultDoc(byte[] pdfContent) throws IOException, DocumentException{
 		return this.formatPDFText(pdfContent).asXML();
 		
 	}

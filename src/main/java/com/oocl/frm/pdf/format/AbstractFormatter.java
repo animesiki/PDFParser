@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
 import org.dom4j.Document;
+import org.dom4j.DocumentException;
 import org.dom4j.Element;
 
 import com.oocl.frm.pdf.constants.PdfFormatConstants;
@@ -59,6 +60,6 @@ public abstract class AbstractFormatter {
 		
 	}
 	
-	public abstract Document formatPDFText(byte[] pdfContent) throws IOException;
+	public abstract Document formatPDFText(byte[] pdfContent) throws IOException, DocumentException;
 
 }
