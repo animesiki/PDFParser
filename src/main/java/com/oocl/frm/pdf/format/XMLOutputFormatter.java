@@ -42,34 +42,50 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		Document resultDocument=DocumentHelper.createDocument();
 		Element rootElement=this.getRooElement(resultDocument);
 		Document sourceDocument=DocumentHelper.parseText(this.pdfParser.parsePDF(pdfContent));
-		
 		Element recordsElement=rootElement.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+		treeWalkDoc(sourceDocument, recordsElement);
+		System.out.println(resultDocument.asXML());
+		//Element recordsElement=rootElement.addElement(PdfFormatConstants.RECORDS_ELEMENT);
 		return null;
 	}
 	
-	public void treeWalkDoc(Document document){
-		this.treeWalkElement(document.getRootElement());
+	public void treeWalkDoc(Document document,Element newRoot){
+		this.treeWalkElement(document.getRootElement(),newRoot);
 	}
 	
-	public void treeWalkElement(Element element){
+	public void treeWalkElement(Element element,Element newRoot){
+		
 		for(int i=0,size=element.nodeCount();i<size;i++){
 			Node node=element.node(i);
 			if(node instanceof Element){
 			    Element childElement=(Element) node;
-			    if(isKeepPage){
-			    	
-			    }
-				treeWalkElement((Element)node);
+			    handleRecord(newRoot, childElement);
+				treeWalkElement((Element)node,newRoot);
 			}	
 		}
 	}
 	
-	private void handleElement(Element element){
-		if(isKeepPage){
-			if(element.getName().equals("")){
-				
-			}
+	public void handleRecord(Element recordsElement,Element element){
+		if(element.getName().equals("text")){
+			Element recordElement=recordsElement.addElement(PdfFormatConstants.RECORD_ELEMENT);
+			recordElement.setText(element.getText());
 		}
+		
 	}
+	
+//	private void handleElement(Element element,Element newRoot){
+//		if(isKeepPage){
+//			if(element.getName().equals(PdfFormatConstants.PAGE_ELEMENT)){
+//				Element recordsElement=newRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+//				recordsElement.addAttribute("page",element.attributeValue("number"));
+//			}
+//		}else{
+//			Element recordsElement=newRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+//		}
+//		if(element.getName().equals(PdfFormatConstants.BLOCK_ELEMENT)){
+//			
+//		}
+//		
+//	}
 
 }
