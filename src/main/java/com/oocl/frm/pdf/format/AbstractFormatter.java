@@ -10,7 +10,6 @@ import org.dom4j.DocumentException;
 import org.dom4j.Element;
 
 import com.oocl.frm.pdf.constants.PdfFormatConstants;
-import com.snowtide.pdf.layout.Image.Format;
 
 public abstract class AbstractFormatter {
 	
