@@ -13,6 +13,9 @@ public class XMLFormatterTest {
 		byte[] pdfContent=TextFormatterTest.toByteArray("26.pdf");
 		XMLOutputParser parser=new XMLOutputParser();
 		XMLOutputFormatter formatter=new XMLOutputFormatter(parser);
+		formatter.setWordSpaceSplitCount(2);
+		formatter.setFilterSpecialCharRegex(";|：");
+		formatter.setKeepPage(true);
 		formatter.formatPDFText(pdfContent);
 		
 	}

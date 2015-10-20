@@ -1,15 +1,16 @@
 package com.oocl.frm.pdf.format;
 
 import java.io.IOException;
+import java.util.Iterator;
+import java.util.LinkedHashSet;
+import java.util.List;
 
-
-
+import org.apache.commons.lang.StringUtils;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.DocumentHelper;
 import org.dom4j.Element;
 import org.dom4j.Node;
-
 
 import com.oocl.frm.pdf.constants.PdfFormatConstants;
 import com.oocl.frm.pdf.parser.IPdfParser;
@@ -19,73 +20,115 @@ public class XMLOutputFormatter extends AbstractFormatter {
 
 	private IPdfParser pdfParser;
 	private boolean isKeepPage;
-	private static final String CR_CHAR="&#13";
 
 	public boolean isKeepPage() {
 		return isKeepPage;
 	}
 
-
 	public void setKeepPage(boolean isKeepPage) {
 		this.isKeepPage = isKeepPage;
 	}
 
-
 	public XMLOutputFormatter(XMLOutputParser xmlParser) {
-		this.pdfParser=xmlParser;
-		
+		this.pdfParser = xmlParser;
+
 	}
-	
 
 	@Override
-	public Document formatPDFText(byte[] pdfContent) throws DocumentException, IOException{
-		Document resultDocument=DocumentHelper.createDocument();
-		Element rootElement=this.getRooElement(resultDocument);
-		Document sourceDocument=DocumentHelper.parseText(this.pdfParser.parsePDF(pdfContent));
-		Element recordsElement=rootElement.addElement(PdfFormatConstants.RECORDS_ELEMENT);
-		treeWalkDoc(sourceDocument, recordsElement);
-		System.out.println(resultDocument.asXML());
-		//Element recordsElement=rootElement.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+	public Document formatPDFText(byte[] pdfContent) throws DocumentException,
+			IOException {
+		Document formatedDoc = DocumentHelper.createDocument();
+		Element formatedRoot = this.getRooElement(formatedDoc);
+		
+		Document sourceDocument = DocumentHelper.parseText(this.pdfParser
+				.parsePDF(pdfContent));
+		Element sourceRoot=sourceDocument.getRootElement();
+		if(this.isKeepPage()){
+			List<Element> pageElements=sourceRoot.selectNodes(PdfFormatConstants.PAGE_XPATH_EXP);
+			for(Element page:pageElements){
+				Element recordsElement=formatedRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+				recordsElement.addAttribute(PdfFormatConstants.PAGE_NO_ATTR,page.attributeValue(PdfFormatConstants.PAGE_ATTR));
+				treeWalkBlockElement(page, recordsElement,PdfFormatConstants.BLOCK_XPAHT_BY_PAGE_EXP);
+			}				
+		}else{
+			Element recordsElement = formatedRoot
+			.addElement(PdfFormatConstants.RECORDS_ELEMENT);
+			treeWalkBlockElement(sourceRoot, recordsElement,PdfFormatConstants.BLOCK_XPATH_EXP);
+		}
+		System.out.println(formatedDoc.asXML());
 		return null;
 	}
-	
-	public void treeWalkDoc(Document document,Element newRoot){
-		this.treeWalkElement(document.getRootElement(),newRoot);
-	}
-	
-	public void treeWalkElement(Element element,Element newRoot){
-		
-		for(int i=0,size=element.nodeCount();i<size;i++){
-			Node node=element.node(i);
-			if(node instanceof Element){
-			    Element childElement=(Element) node;
-			    handleRecord(newRoot, childElement);
-				treeWalkElement((Element)node,newRoot);
-			}	
-		}
-	}
-	
-	public void handleRecord(Element recordsElement,Element element){
-		if(element.getName().equals("text")){
-			Element recordElement=recordsElement.addElement(PdfFormatConstants.RECORD_ELEMENT);
-			recordElement.setText(element.getText());
-		}
-		
-	}
-	
-//	private void handleElement(Element element,Element newRoot){
-//		if(isKeepPage){
-//			if(element.getName().equals(PdfFormatConstants.PAGE_ELEMENT)){
-//				Element recordsElement=newRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
-//				recordsElement.addAttribute("page",element.attributeValue("number"));
-//			}
-//		}else{
-//			Element recordsElement=newRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
-//		}
-//		if(element.getName().equals(PdfFormatConstants.BLOCK_ELEMENT)){
-//			
-//		}
-//		
-//	}
 
+	public void treeWalkBlockElement(Element sourceElement, Element recordsElement,String xpath) {
+		@SuppressWarnings("unchecked")
+		List<Element> elementsList = sourceElement.selectNodes(xpath);
+		for (int i = 0, size = elementsList.size(); i < size; i++) {
+			Element node = elementsList.get(i);
+			if (node.attribute(PdfFormatConstants.BLOCK_TYPE_ATTR) != null
+					&& node.attributeValue(PdfFormatConstants.BLOCK_TYPE_ATTR)
+							.equals(PdfFormatConstants.TABLE_TYPE_VALUE)) {		
+			    handleTableBlock(recordsElement,node);
+			} else {
+				handleBasicInfoBlock(recordsElement, node);
+			}
+
+		}
+	}
+
+	public void handleBasicInfoBlock(Element recordsElement, Element element) {
+		// handle basic info block
+		for (int i = 0, size = element.nodeCount(); i < size; i++) {
+			Node node = element.node(i);
+			if ((node instanceof Element)
+					&& (((Element) node).getName()
+							.equals(PdfFormatConstants.TEXT_ELEMENT))) {
+			this.splitTextToCol(recordsElement, ((Element) node).getText());
+			}
+		}
+	}
+	
+	public void splitTextToCol(Element recordsElement,String text){
+		String[] wordLines=text.split(PdfFormatConstants.CR_CHAR);
+		for(String line:wordLines){
+			if(!StringUtils.isEmpty(line.trim())){
+				Element recordElement=recordsElement.addElement(PdfFormatConstants.RECORD_ELEMENT);
+				String[] wordsPerLine=line.split(this.generateSpaceSplitRegex());
+				for(String word:wordsPerLine){
+					if(!StringUtils.isEmpty(word)){
+						Element colElement=recordElement.addElement(PdfFormatConstants.COLUMN_ELEMENT);
+						colElement.setText(this.formatWord(word));
+					}
+				}
+			}
+		}
+	}
+
+	public void handleTableBlock(Element recordsElement,Element element) {
+		Element tablElement=recordsElement.addElement(PdfFormatConstants.TABLE_ELEMENT);
+		LinkedHashSet<String> rowYposSet=this.getRowYposForTable(element);
+		Iterator<String> rowYposIterator=rowYposSet.iterator();
+		while(rowYposIterator.hasNext()){
+			Element recordElement=tablElement.addElement(PdfFormatConstants.RECORD_ELEMENT);
+			List<Element> rowBlockElements=element.selectNodes("./block[@ypos="+rowYposIterator.next()+"]");
+			for(Element colBlock:rowBlockElements){
+				Element colElement=recordElement.addElement(PdfFormatConstants.COLUMN_ELEMENT);
+				colElement.setText(colBlock.valueOf("./block/text"));
+			}
+		}
+	}
+
+	public LinkedHashSet getRowYposForTable(Element tableBlock){
+		List<Element> blockList=this.getTableBlock(tableBlock);
+		LinkedHashSet<String> rowYposSet=new LinkedHashSet<String>();
+		for(Element block:blockList){
+			String value=block.valueOf(PdfFormatConstants.BLOCK_YPOS_XPATH_EXP);
+			rowYposSet.add(value);
+		}
+		return rowYposSet;
+	}
+	
+	public List getTableBlock(Element tableBlock){
+		List<Element> blockList=tableBlock.selectNodes(PdfFormatConstants.CELL_BLOCK_XPATH_EXP);
+		return blockList;
+	}
 }
