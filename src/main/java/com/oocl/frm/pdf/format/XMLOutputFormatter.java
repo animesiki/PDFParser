@@ -31,7 +31,6 @@ public class XMLOutputFormatter extends AbstractFormatter {
 
 	public XMLOutputFormatter(XMLOutputParser xmlParser) {
 		this.pdfParser = xmlParser;
-
 	}
 
 	@Override
@@ -39,7 +38,6 @@ public class XMLOutputFormatter extends AbstractFormatter {
 			IOException {
 		Document formatedDoc = DocumentHelper.createDocument();
 		Element formatedRoot = this.getRooElement(formatedDoc);
-
 		Document sourceDocument = DocumentHelper.parseText(this.pdfParser
 				.parsePDF(pdfContent));
 		Element sourceRoot = sourceDocument.getRootElement();
