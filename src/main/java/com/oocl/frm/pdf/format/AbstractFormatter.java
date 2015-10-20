@@ -12,9 +12,9 @@ import org.dom4j.Element;
 import com.oocl.frm.pdf.constants.PdfFormatConstants;
 
 public abstract class AbstractFormatter {
-	
+
 	private int wordSpaceSplitCount;
-    private String filterSpecialCharRegex;
+	private String filterSpecialCharRegex;
 
 	public String getFilterSpecialCharRegex() {
 		return filterSpecialCharRegex;
@@ -32,33 +32,37 @@ public abstract class AbstractFormatter {
 		this.wordSpaceSplitCount = wordSpaceSplitCount;
 	}
 
-	protected String generateSpaceSplitRegex(){
-		return PdfFormatConstants.splitWordRegex+"{"+this.getWordSpaceSplitCount()+",}";
+	protected String generateSpaceSplitRegex() {
+		return PdfFormatConstants.splitWordRegex + "{"
+				+ this.getWordSpaceSplitCount() + ",}";
 	}
-	
-	protected Element getRooElement(Document document){
-		Element rootElement=document.addElement(PdfFormatConstants.ROOT_ELEMENT);
+
+	protected Element getRooElement(Document document) {
+		Element rootElement = document
+				.addElement(PdfFormatConstants.ROOT_ELEMENT);
 		return rootElement;
 	}
-	
-	protected boolean isFilterChar(String text){
-		boolean isNeedFilter=false;
-		if(StringUtils.isEmpty(this.getFilterSpecialCharRegex().trim())||text.length()>1){
+
+	protected boolean isFilterChar(String text) {
+		boolean isNeedFilter = false;
+		if (StringUtils.isEmpty(this.getFilterSpecialCharRegex().trim())
+				|| text.length() > 1) {
 			return isNeedFilter;
 		}
-		Pattern pattern=Pattern.compile(this.getFilterSpecialCharRegex());
-		Matcher matcher=pattern.matcher(text);
-		if(matcher.find()){
-			isNeedFilter=true;
+		Pattern pattern = Pattern.compile(this.getFilterSpecialCharRegex());
+		Matcher matcher = pattern.matcher(text);
+		if (matcher.find()) {
+			isNeedFilter = true;
 		}
-		return isNeedFilter;	
+		return isNeedFilter;
 	}
-	
-	protected String formatWord(String word){
+
+	protected String formatWord(String word) {
 		return word.replaceAll(PdfFormatConstants.FORMAT_WORD_REGEX, " ");
-		
+
 	}
-	
-	public abstract Document formatPDFText(byte[] pdfContent) throws IOException, DocumentException;
+
+	public abstract Document formatPDFText(byte[] pdfContent)
+			throws IOException, DocumentException;
 
 }

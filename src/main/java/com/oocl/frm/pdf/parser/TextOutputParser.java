@@ -10,11 +10,10 @@ import com.snowtide.pdf.VisualOutputTarget;
 public class TextOutputParser implements IPdfParser {
 
 	public String parsePDF(byte[] pdfContent) throws IOException {
-		Document pdf=PDF.open(new ByteArrayInputStream(pdfContent),null);
+		Document pdf = PDF.open(new ByteArrayInputStream(pdfContent), null);
 		StringBuilder text = new StringBuilder(1024);
-	    pdf.pipe(new VisualOutputTarget(text));
-	    pdf.close();
+		pdf.pipe(new VisualOutputTarget(text));
+		pdf.close();
 		return text.toString();
 	}
 }
- 
