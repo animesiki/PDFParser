@@ -44,6 +44,7 @@ public class XMLOutputFormatter extends AbstractFormatter {
 				.parsePDF(pdfContent));
 		Element sourceRoot=sourceDocument.getRootElement();
 		if(this.isKeepPage()){
+			@SuppressWarnings("unchecked")
 			List<Element> pageElements=sourceRoot.selectNodes(PdfFormatConstants.PAGE_XPATH_EXP);
 			for(Element page:pageElements){
 				Element recordsElement=formatedRoot.addElement(PdfFormatConstants.RECORDS_ELEMENT);
@@ -55,11 +56,10 @@ public class XMLOutputFormatter extends AbstractFormatter {
 			.addElement(PdfFormatConstants.RECORDS_ELEMENT);
 			treeWalkBlockElement(sourceRoot, recordsElement,PdfFormatConstants.BLOCK_XPATH_EXP);
 		}
-		System.out.println(formatedDoc.asXML());
-		return null;
+		return formatedDoc;
 	}
 
-	public void treeWalkBlockElement(Element sourceElement, Element recordsElement,String xpath) {
+	private void treeWalkBlockElement(Element sourceElement, Element recordsElement,String xpath) {
 		@SuppressWarnings("unchecked")
 		List<Element> elementsList = sourceElement.selectNodes(xpath);
 		for (int i = 0, size = elementsList.size(); i < size; i++) {
@@ -75,7 +75,7 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		}
 	}
 
-	public void handleBasicInfoBlock(Element recordsElement, Element element) {
+	private void handleBasicInfoBlock(Element recordsElement, Element element) {
 		// handle basic info block
 		for (int i = 0, size = element.nodeCount(); i < size; i++) {
 			Node node = element.node(i);
@@ -87,7 +87,7 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		}
 	}
 	
-	public void splitTextToCol(Element recordsElement,String text){
+	private void splitTextToCol(Element recordsElement,String text){
 		String[] wordLines=text.split(PdfFormatConstants.CR_CHAR);
 		for(String line:wordLines){
 			if(!StringUtils.isEmpty(line.trim())){
@@ -103,12 +103,14 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		}
 	}
 
-	public void handleTableBlock(Element recordsElement,Element element) {
+	private void handleTableBlock(Element recordsElement,Element element) {
 		Element tablElement=recordsElement.addElement(PdfFormatConstants.TABLE_ELEMENT);
+		@SuppressWarnings("unchecked")
 		LinkedHashSet<String> rowYposSet=this.getRowYposForTable(element);
 		Iterator<String> rowYposIterator=rowYposSet.iterator();
 		while(rowYposIterator.hasNext()){
 			Element recordElement=tablElement.addElement(PdfFormatConstants.RECORD_ELEMENT);
+			@SuppressWarnings("unchecked")
 			List<Element> rowBlockElements=element.selectNodes("./block[@ypos="+rowYposIterator.next()+"]");
 			for(Element colBlock:rowBlockElements){
 				Element colElement=recordElement.addElement(PdfFormatConstants.COLUMN_ELEMENT);
@@ -117,7 +119,9 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		}
 	}
 
-	public LinkedHashSet getRowYposForTable(Element tableBlock){
+	@SuppressWarnings("rawtypes")
+	private LinkedHashSet getRowYposForTable(Element tableBlock){
+		@SuppressWarnings("unchecked")
 		List<Element> blockList=this.getTableBlock(tableBlock);
 		LinkedHashSet<String> rowYposSet=new LinkedHashSet<String>();
 		for(Element block:blockList){
@@ -127,7 +131,9 @@ public class XMLOutputFormatter extends AbstractFormatter {
 		return rowYposSet;
 	}
 	
-	public List getTableBlock(Element tableBlock){
+	@SuppressWarnings("rawtypes")
+	private List getTableBlock(Element tableBlock){
+		@SuppressWarnings("unchecked")
 		List<Element> blockList=tableBlock.selectNodes(PdfFormatConstants.CELL_BLOCK_XPATH_EXP);
 		return blockList;
 	}
